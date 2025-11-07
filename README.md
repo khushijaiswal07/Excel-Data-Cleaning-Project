@@ -1,55 +1,81 @@
-# Excel-Data-Cleaning-Project
+# 🧹 Excel Data Cleaning Project
 
-## 📄 Project Overview
-In this project, I used **Microsoft Excel** to clean a raw dataset and prepare it for analysis.  
-The main goal was to remove errors, blanks, and duplicates to make the data consistent and ready for further insights.
+
+## 📘 Project Overview
+This project demonstrates the process of cleaning raw Excel data using **Microsoft Excel**.  
+It includes steps such as removing blanks, duplicates, correcting spellings, and applying formatting to prepare a clean dataset for analysis.
+
+---
+
+## 📊 Steps in Data Cleaning
+
+### 1️⃣ Before Cleaning
+- The dataset contained **blank cells**, **duplicates**, and **inconsistent spellings**.
+- Screenshot:  
+  ![Before Cleaning](Before%20Cleaning.png)
+
+---
+
+### 2️⃣ Removing Blank Cells
+- Used Excel filters to identify and remove blank rows or cells.
+- Screenshot:  
+  ![Removing Blank Cells](Removing%20Blank%20Cells.png)
+
+---
+
+### 3️⃣ Removing Duplicates
+- Used **Data → Remove Duplicates** feature to eliminate repeated entries.
+- Screenshot:  
+  ![Removing Duplicates](Removing%20Duplicates.png)
+
+---
+
+### 4️⃣ Spelling Correction
+- Corrected inconsistent entries like “FeMale” → “Female”, “mumbay” → “Mumbai”.
+- Screenshot:  
+  ![Spelling Correction](Spelling%20Correction.png)
+
+---
+
+### 5️⃣ Applied Conditional Formatting
+- Highlighted important columns using color formatting.
+- Screenshot:  
+  ![Applied Conditional Formatting](Applied%20Conditional%20Formatting.png)
+
+---
+
+### 6️⃣ Final Clean Data
+- Data is now clean, structured, and ready for analysis or visualization.
+- Screenshot:  
+  ![Final Clean Data](Final%20Clean%20Data.png)
+
+---
 
 ## 🧰 Tools Used
 - Microsoft Excel
+- GitHub (for documentation & version control)
 
-## 🔧 Steps Performed
-1. **Find and Replace Values**  
-   - Used the `Ctrl + F` (Find & Replace) function to correct or remove unwanted values.
+---
 
-2. **Handling Blank Cells**  
-   - Used the **Go To Special → Blanks** feature to identify and remove empty cells.
+## 📁 Project Files
+| File Name | Description |
+|------------|--------------|
+| `Before Cleaning.png` | Original messy data screenshot |
+| `Removing Blank Cells.png` | Blank cells removal step |
+| `Removing Duplicates.png` | Duplicate rows removal |
+| `Spelling Correction.png` | Spelling corrected |
+| `Applied Conditional Formatting.png` | Conditional formatting applied |
+| `Final Clean Data.png` | Final clean dataset view |
 
-3. **Removing Duplicates**  
-   - Applied the **Remove Duplicates** feature from the Data tab to eliminate duplicate rows.
+---
 
-4. **Conditional Formatting**  
-   - Highlighted specific data patterns and errors using Excel’s Conditional Formatting tool.
+## 💡 Key Learnings
+- Importance of data cleaning before analysis  
+- Efficient use of Excel features like filters, duplicates removal, and formatting  
+- How to document data cleaning work professionally on GitHub  
 
-5. **Final Data Verification**  
-   - Checked the dataset to ensure all columns were properly cleaned and formatted.
+---
 
-## 🖼️ Screenshots
-Below are a few screenshots showing the data cleaning process:
-
-### 📌 Before Cleaning
-![Before Cleaning](Before_Cleaning.png)
-
-###📌 After Applying Conditional Formatting
-![Applied Conditional Formatting](Applied_Conditional_Formatting.png)
-
-### 📌 Removing Blank Cells
-![Removing Blank Cells](Removing Blank Cells.png)
-
-### 📌 Removing Duplicates
-![Removing Duplicates](Removing_Duplicates.png)
-
-### 📌 Spelling Correction
-![Spelling Correction ](Spelling Correection.png)
-
-### 📌 Final Cleaning Data
-![Final Cleaning Data](Final Cleaning Data.png)
-
-## 🧠 Key Learnings
-- Learned practical Excel data cleaning techniques.  
-- Gained hands-on experience with handling missing and duplicate data.  
-- Improved understanding of Conditional Formatting and Go To Special functions.
-
-## 📁 Files Included
-- Raw Dataset (Before Cleaning)  
-- Cleaned Dataset (After Cleaning)  
-- Screenshots of the Cleaning Process
+## ✍️ Author
+**Khushi Jaiswal**  
+_Data Cleaning Project using Microsoft Excel_
