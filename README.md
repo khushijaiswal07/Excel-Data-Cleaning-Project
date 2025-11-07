@@ -9,44 +9,45 @@ It covers steps like removing blanks, duplicates, correcting spellings, and appl
 ## 📊 Steps in Data Cleaning
 
 ### 1️⃣ Before Cleaning
-- The dataset contained **blank cells**, **duplicates**, and **inconsistent spellings**.
-- Screenshot:  
-  ![Before Cleaning](Before_Cleaning.png)
+Used Excel dataset containing blank cells, duplicates, and inconsistent spellings.  
+**Screenshot:**  
+![Before Cleaning](Before%20Cleaning%20.png)
 
 ---
 
 ### 2️⃣ Removing Blank Cells
-- Used Excel filters to identify and remove blank rows or cells.
-- Screenshot:  
-  ![Removing Blank Cells](Removing_Blank_Cells.png)
+Used Excel filters to identify and remove blank rows or cells.  
+**Screenshot:**  
+![Removing Blank Cells](Removing%20Blank%20Cells%20.png)
 
 ---
 
 ### 3️⃣ Removing Duplicates
-- Used **Data → Remove Duplicates** feature to eliminate repeated entries.
-- Screenshot:  
-  ![Removing Duplicates](Removing_Duplicates.png)
+Used **Data → Remove Duplicates** feature to eliminate repeated entries.  
+**Screenshot:**  
+![Removing Duplicates](Removing%20Duplicates%20.png)
 
 ---
 
 ### 4️⃣ Spelling Correction
-- Corrected inconsistent entries like “FeMale” → “Female”, “mumbay” → “Mumbai”.
-- Screenshot:  
-  ![Spelling Correction](Spelling_Correction.png)
+Corrected inconsistent entries like “FeMale” → “Female”, “mumbay” → “Mumbai”.  
+**Screenshot:**  
+![Spelling Correction](Spelling%20Correction.png)
 
 ---
 
 ### 5️⃣ Applied Conditional Formatting
-- Highlighted important columns using conditional formatting to improve data visibility.
-- Screenshot:  
-  ![Applied Conditional Formatting](Applied_Conditional_Formatting.png)
+Used conditional formatting to highlight missing or invalid data.  
+**Screenshot:**  
+![Applied Conditional Formatting](Applied%20Conditional%20Formating%20.png)
 
 ---
 
 ### 6️⃣ Final Clean Data
-- The dataset is now **clean, formatted, and ready for analysis**.
-- Screenshot:  
-  ![Final Clean Data](Final_Clean_Data.png)
+Cleaned dataset after removing blanks, duplicates, and fixing spellings.  
+**Screenshot:**  
+![Final Clean Data](Final%20Clean%20Data.png)
+
 
 ---
 
